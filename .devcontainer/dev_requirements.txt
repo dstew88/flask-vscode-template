@@ -1,0 +1,6 @@
+autopep8
+flask
+pycodestyle
+pylint
+pytest
+python-dotenv
